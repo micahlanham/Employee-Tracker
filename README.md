@@ -16,3 +16,17 @@ Node.js - Used for package managment and to execute JavaScript code to build com
 Javascript - Used to base functionality of functions and prompts within the application.
 Git - Version control system to track changes to source code
 GitHub - Hosts repository that can be deployed to GitHub Pages
+
+
+# Built With
+MySQL
+Express.js
+Node.js
+npmjs
+inquirer
+
+
+# Credit
+Credit is due to Chris Melby
+
+https://github.com/cmelby/EmployeeTracker
